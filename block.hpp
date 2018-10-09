@@ -11,4 +11,7 @@
 
 #include <stdio.h>
 
+struct block{
+    
+};
 #endif /* block_hpp */
